@@ -6,7 +6,7 @@ ML-related notebooks and utilities.
 
 Create new notebook from template:
 ```bash
-https://raw.githubusercontent.com/piotrpersona/ml/main/notebook.sh | sh
+curl https://raw.githubusercontent.com/piotrpersona/ml/main/notebook.sh | sh
 ```
 
 
